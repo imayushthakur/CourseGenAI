@@ -8,6 +8,8 @@ This project automates course creation by analyzing video transcripts and assign
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai_course_creator.git
+   git clone https://github.com/imayushthakur/ai_course_creator.git
    cd ai_course_creator
+   pip install -r requirements.txt
+   streamlit run web_app/app.py
    ```
