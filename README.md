@@ -61,86 +61,86 @@ Machine Learning Fundamentals
 - Perceptrons and Activation Functions
 - Backpropagation
 - Convolutional Neural Networks
-  <br>
-  Example Input: Video URLs
-  <br>
-  https://www.youtube.com/watch?v=KNAWp2S3w94
-  https://www.youtube.com/watch?v=JcI5Vnw0b2c
-  https://www.youtube.com/watch?v=aircAruvnKk
-  https://www.youtube.com/watch?v=GwIo3gDZCVQ
-  https://www.youtube.com/watch?v=Y_hzMnRXjhI
-  <br>
-  Example Output: Generated Course Structure
-  <br>
-  {
-  "name": "Machine Learning Fundamentals",
-  "topics": [
-  {
-  "title": "Machine Learning Fundamentals",
-  "subtopics": [
-  {
-  "title": "Introduction to Machine Learning",
-  "video": {
-  "video_id": "KNAWp2S3w94",
-  "source": "youtube",
-  "score": 0.94,
-  "url": "https://www.youtube.com/watch?v=KNAWp2S3w94"
-  }
-  },
-  {
-  "title": "Supervised vs Unsupervised Learning",
-  "video": {
-  "video_id": "JcI5Vnw0b2c",
-  "source": "youtube",
-  "score": 0.89,
-  "url": "https://www.youtube.com/watch?v=JcI5Vnw0b2c"
-  }
-  },
-  {
-  "title": "Model Evaluation Techniques",
-  "video": {
-  "video_id": "OtD8wVaFm6E",
-  "source": "youtube",
-  "score": 0.92,
-  "url": "https://www.youtube.com/watch?v=OtD8wVaFm6E"
-  }
-  }
-  ]
-  },
-  {
-  "title": "Neural Networks",
-  "subtopics": [
-  {
-  "title": "Perceptrons and Activation Functions",
-  "video": {
-  "video_id": "aircAruvnKk",
-  "source": "youtube",
-  "score": 0.87,
-  "url": "https://www.youtube.com/watch?v=aircAruvnKk"
-  }
-  },
-  {
-  "title": "Backpropagation",
-  "video": {
-  "video_id": "GwIo3gDZCVQ",
-  "source": "youtube",
-  "score": 0.91,
-  "url": "https://www.youtube.com/watch?v=GwIo3gDZCVQ"
-  }
-  },
-  {
-  "title": "Convolutional Neural Networks",
-  "video": {
-  "video_id": "Y_hzMnRXjhI",
-  "source": "youtube",
-  "score": 0.93,
-  "url": "https://www.youtube.com/watch?v=Y_hzMnRXjhI"
-  }
-  }
-  ]
-  }
-  ]
-  }
+<br>
+Example Input: Video URLs
+<br>
+https://www.youtube.com/watch?v=KNAWp2S3w94
+https://www.youtube.com/watch?v=JcI5Vnw0b2c
+https://www.youtube.com/watch?v=aircAruvnKk
+https://www.youtube.com/watch?v=GwIo3gDZCVQ
+https://www.youtube.com/watch?v=Y_hzMnRXjhI
+<br>
+Example Output: Generated Course Structure
+<br>
+{
+"name": "Machine Learning Fundamentals",
+"topics": [
+{
+"title": "Machine Learning Fundamentals",
+"subtopics": [
+{
+"title": "Introduction to Machine Learning",
+"video": {
+"video_id": "KNAWp2S3w94",
+"source": "youtube",
+"score": 0.94,
+"url": "https://www.youtube.com/watch?v=KNAWp2S3w94"
+}
+},
+{
+"title": "Supervised vs Unsupervised Learning",
+"video": {
+"video_id": "JcI5Vnw0b2c",
+"source": "youtube",
+"score": 0.89,
+"url": "https://www.youtube.com/watch?v=JcI5Vnw0b2c"
+}
+},
+{
+"title": "Model Evaluation Techniques",
+"video": {
+"video_id": "OtD8wVaFm6E",
+"source": "youtube",
+"score": 0.92,
+"url": "https://www.youtube.com/watch?v=OtD8wVaFm6E"
+}
+}
+]
+},
+{
+"title": "Neural Networks",
+"subtopics": [
+{
+"title": "Perceptrons and Activation Functions",
+"video": {
+"video_id": "aircAruvnKk",
+"source": "youtube",
+"score": 0.87,
+"url": "https://www.youtube.com/watch?v=aircAruvnKk"
+}
+},
+{
+"title": "Backpropagation",
+"video": {
+"video_id": "GwIo3gDZCVQ",
+"source": "youtube",
+"score": 0.91,
+"url": "https://www.youtube.com/watch?v=GwIo3gDZCVQ"
+}
+},
+{
+"title": "Convolutional Neural Networks",
+"video": {
+"video_id": "Y_hzMnRXjhI",
+"source": "youtube",
+"score": 0.93,
+"url": "https://www.youtube.com/watch?v=Y_hzMnRXjhI"
+}
+}
+]
+}
+]
+}
   <br>
   💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
 
