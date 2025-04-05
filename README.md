@@ -154,7 +154,7 @@ Example Output: Generated Course Structure
 }
 <br><br>
 💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
-<br>
+<br><br>
 📬 Contact Me 📧 Email: thehaurusai@gmail.com
-<br>
+<br><br>
 Built with ❤️ using cutting-edge AI technologies! Let’s create something amazing together! 🚀
