@@ -46,9 +46,9 @@ pip install -r requirements.txt
 5. **Course Generation**: A complete course structure is created with optimal video assignments
 
 Sample Input and Output
-<br>
+<br><br>
 Example Input: Course Syllabus
-<br>
+<br><br>
 Machine Learning Fundamentals
 <br>
 
@@ -61,17 +61,17 @@ Machine Learning Fundamentals
 - Perceptrons and Activation Functions
 - Backpropagation
 - Convolutional Neural Networks
-<br>
+<br><br>
 Example Input: Video URLs
-<br>
+<br><br>
 https://www.youtube.com/watch?v=KNAWp2S3w94
 https://www.youtube.com/watch?v=JcI5Vnw0b2c
 https://www.youtube.com/watch?v=aircAruvnKk
 https://www.youtube.com/watch?v=GwIo3gDZCVQ
 https://www.youtube.com/watch?v=Y_hzMnRXjhI
-<br>
+<br><br>
 Example Output: Generated Course Structure
-<br>
+<br><br>
 {
 "name": "Machine Learning Fundamentals",
 "topics": [
@@ -141,9 +141,9 @@ Example Output: Generated Course Structure
 }
 ]
 }
-  <br>
-  💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
-
+<br><br>
+💡 Let's collaborate! Reach out via email to discuss how I can help bring your ideas to life.
+<br>
 📬 Contact Me 📧 Email: thehaurusai@gmail.com
-
+<br>
 Built with ❤️ using cutting-edge AI technologies! Let’s create something amazing together! 🚀
