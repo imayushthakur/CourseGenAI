@@ -65,9 +65,13 @@ Machine Learning Fundamentals
 Example Input: Video URLs
 <br><br>
 https://www.youtube.com/watch?v=KNAWp2S3w94
+<br>
 https://www.youtube.com/watch?v=JcI5Vnw0b2c
+<br>
 https://www.youtube.com/watch?v=aircAruvnKk
+<br>
 https://www.youtube.com/watch?v=GwIo3gDZCVQ
+<br>
 https://www.youtube.com/watch?v=Y_hzMnRXjhI
 <br><br>
 Example Output: Generated Course Structure
