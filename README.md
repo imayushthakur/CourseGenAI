@@ -63,10 +63,13 @@ Machine Learning Fundamentals
 - Supervised vs Unsupervised Learning
 - Model Evaluation Techniques
 <br><br>
+
 Neural Networks
 <br>
 - Perceptrons and Activation Functions
+<br>
 - Backpropagation
+<br>
 - Convolutional Neural Networks
 <br><br>
 Example Input: Video URLs
