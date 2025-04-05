@@ -1,6 +1,6 @@
-# 🎓 AI Course Generator
+# 🎓 CourseGenAI
 
-**AI Course Generator** is a powerful, production-ready system that automates the creation of educational courses by intelligently matching web videos to course syllabus topics using state-of-the-art AI.
+**CourseGenAI** is a powerful, production-ready system that automates the creation of educational courses by intelligently matching web videos to course syllabus topics using state-of-the-art AI.
 
 ## 🚀 Features
 
