@@ -32,11 +32,16 @@ cd CourseGenAI
 <br>
 
 Set up virtual environment
+<br>
 python -m venv venv
+<br>
 source venv/bin/activate
+<br>
 
 Install dependencies
+<br>
 pip install -r requirements.txt
+<br>
 
 ### Generate Your First Course
 
