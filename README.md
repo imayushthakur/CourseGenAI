@@ -67,10 +67,9 @@ Machine Learning Fundamentals
 Neural Networks
 <br>
 - Perceptrons and Activation Functions
-<br>
 - Backpropagation
-<br>
 - Convolutional Neural Networks
+
 <br><br>
 Example Input: Video URLs
 <br><br>
