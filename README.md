@@ -25,8 +25,11 @@
 ### Installation
 
 Clone the repository
+<br>
 git clone https://github.com/imayushthakur/CourseGenAI.git
+<br>
 cd CourseGenAI
+<br>
 
 Set up virtual environment
 python -m venv venv
