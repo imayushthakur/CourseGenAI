@@ -59,13 +59,12 @@ Example Input: Course Syllabus
 <br><br>
 Machine Learning Fundamentals
 <br>
-
 - Introduction to Machine Learning
 - Supervised vs Unsupervised Learning
 - Model Evaluation Techniques
-  <br>
-  Neural Networks
-  <br>
+<br><br>
+Neural Networks
+<br>
 - Perceptrons and Activation Functions
 - Backpropagation
 - Convolutional Neural Networks
